@@ -1,2 +1,3 @@
 UNO資料庫安裝部分需參考
 https://github.com/Vulpelo/Uno
+完成後即可使用資料庫部分
