@@ -1,2 +1,2 @@
-UNO安裝部分需參考
+UNO資料庫安裝部分需參考
 https://github.com/Vulpelo/Uno
